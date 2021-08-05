@@ -1,4 +1,4 @@
-# Machine-Learning-with-R
+# Machine Learning with R ( Supervised Learning )
   
   DATA PROCESSING
   -	R Data-Types 
